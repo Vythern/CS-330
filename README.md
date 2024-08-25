@@ -34,3 +34,7 @@ I think that there might be opportunity to integrate all the skills I have acqui
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 I think I have described the benefits of CS-330 enough in previous sections.  Game development is my path forwards, and a deep understanding of computational graphics is essential to success and innovation in the future for me.  
+
+
+Also, here is a link to my drive for the module 7 assignment.  I was having trouble when committing the large files of the 7th module, and this was a straightforwards solution.  
+https://drive.google.com/file/d/1JbjI7atb3-IxX305yH354lA9AI-x6N84/view?usp=sharing
